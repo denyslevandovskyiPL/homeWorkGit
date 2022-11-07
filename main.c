@@ -1,5 +1,5 @@
 
 
 void main(){
-	printf("Hi, PLVision!\n"); 
+	printf("Hello, world!\n"); 
 }
